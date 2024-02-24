@@ -36,3 +36,4 @@ The `UserSatisfactionChart` component presents a bar chart illustrating user sat
 - **store.ts**: Defines the Redux store and reducer function to manage application state.
 - **index.tsx**: Entry point of the application where the `App` component is rendered within a Redux `Provider`.
 
+## Video Link: https://youtu.be/6VEk0CJgALs
